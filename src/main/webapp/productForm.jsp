@@ -17,7 +17,7 @@
 
 <h1>商品登録</h1>
 
-<form>
+<form action="ProductRegisterServlet" method="post">
 
     ID：<input type="text"><br>
 
